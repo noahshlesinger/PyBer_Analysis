@@ -1,6 +1,4 @@
 # Pyber Analysis
-
-## Overview of the analysis:
 The purpose of this analysis is to summarize fare prices, the number of drivers, and the number of riders in a list of cities that are categorized into 3 city types:"Rural", "Suburban", and "Urban" for cross comparison. This comparison will aid decision-makers at Pyber know where they need to push more resources for maximal effectiveness and profits.
 
 ## Results:
@@ -22,7 +20,7 @@ To visualize this relationship between the 3 city types, the first 4 months of 2
 
 While this graph might feel redundant, there is always a good reason to look for trends over time and over the course of the year. Here, there are slightly increases and decreases in total fares across the months, but overall, they are steady in values. The exception is at the beginning of the year when theere is an incerase in Total Fares in the Suburban and Urban cities but not in the Rural community. At the end of April, there is a similar increase in Suburban fares but constant total fares in the Urban and Rural city types. This demonstrates that there are the greatest fluctuations in total fares in the Suburban city type, followed by Urban city types and lastly by the Rural city type.  This may indicate that Suburban areas have the greatest areas for improvement to keep consistent revenue as well as the Urban city types. The Rural ares seem to be more independednt of the time of year and the changes in fares are less extreme. The only exception to this s the beginning of March, but it is anyone's guess as to the reason for the uptick in total Fares across all the city types.
 
-### Summary:
+## Summary:
  Following the analysis presented above, here are 3 recommendations:
  
  1. Increase the cost  of the fares per ride in the Urban city types by a small amount that won't be sufficient to cause customer dissatisfaction. A small increase will not make a difference for a single ride, but across all the rides there will be a significant incresae in profits.
